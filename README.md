@@ -47,6 +47,8 @@ $ curl http://localhost:8123/status
 
 You can run the Go application locally if you have Go installed.
 
+Last edited.
+
 ```shell
 # Build and run the application
 $ go run app.go
